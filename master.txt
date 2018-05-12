@@ -1,2 +1,2 @@
-master write
 new write
+master write and write again
